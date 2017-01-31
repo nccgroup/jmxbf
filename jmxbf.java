@@ -1,9 +1,12 @@
 /*
  * jmxbf - A brute force program to test weak accounts configured to access a JMX Registry
- * 				
- *    Created by:
- *    Daniele Costa <daniele.costa@nccgroup.trust> - 
- *    
+ * 
+ * Released as open source by NCC Group Plc - http://www.nccgroup.com/
+ *
+ *  Developed by Daniele Costa, daniele.costa@nccgroup.trust
+ *  http://www.github.com/nccgroup/jmxbf
+ *  Released under AGPL see LICENSE for more information
+ * 
  *    First version - 25/07/2014 - v0.1alpha
  *    
  *    Last update - 31/01/2017 - v0.1beta
