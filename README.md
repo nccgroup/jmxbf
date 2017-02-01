@@ -8,6 +8,7 @@ http://www.github.com/nccgroup/jmxbf
 
 Released under AGPL see LICENSE for more information
 
+```
 $>Usage: 
 java -jar jmxbf.jar
 	-h,--host <arg>              The JMX server IP address.
@@ -18,6 +19,7 @@ java -jar jmxbf.jar
 Example:
    
 $>java –jar jmxbf.jar –h 192.168.20.1 –p 1099 –uf usernames.txt –pf passwords.txt
+```
 		
 Some samp;e output below:
 
