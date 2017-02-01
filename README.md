@@ -2,8 +2,10 @@ jmxbf - A brute force program to test weak accounts configured to access a JMX R
  
 Released as open source by NCC Group Plc - http://www.nccgroup.com/
 
-Developed by Daniele Costa, daniele.costa@nccgroup.trust
+Developed by Daniele Costa, daniele [dot] costa [at] nccgroup [dot] trust
+
 http://www.github.com/nccgroup/jmxbf
+
 Released under AGPL see LICENSE for more information
 
 $>Usage: 
